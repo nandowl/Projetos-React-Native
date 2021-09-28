@@ -14,7 +14,7 @@ fazendo assim com que a integração não seja possível da mesma forma que foi 
 
 # Tecnologias
 
-Para desenvolvedor o projeto foram utilizados:
+Para desenvolver o projeto foram utilizados:
 - JavaScript
 - React Native
 - Redux
