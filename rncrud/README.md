@@ -22,8 +22,8 @@ Algumas dependências legais utilizadas:
 
 # Layout
 
-![Optional_Text](./assets/rncrud1.PNG) ![Optional_Text](./assets/rncrud2.PNG)
-![Optional_Text](./assets/rncrud3.PNG) ![Optional_Text](./assets/rncrud4.PNG)
+![Optional_Text](../assets/rncrud1.PNG) ![Optional_Text](../assets/rncrud2.PNG)
+![Optional_Text](../assets/rncrud3.PNG) ![Optional_Text](../assets/rncrud4.PNG)
 
 # Clone
 
