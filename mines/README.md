@@ -16,7 +16,7 @@ Para desenvolvedor o projeto foram utilizados:
 
 # Layout
 
-![Optional_Text](./assets/campominado1.PNG) ![Optional_Text](./assets/campominado2.PNG)
+![Optional_Text](../assets/campominado1.PNG) ![Optional_Text](../assets/campominado2.PNG)
 
 # Clone
 
