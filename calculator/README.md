@@ -15,7 +15,7 @@ Para desenvolvedor o projeto foram utilizados:
 
 # Layout
 
-![Optional_Text](./assets/calculadora.PNG)
+![Optional_Text](../assets/calculadora.PNG)
 
 # Clone
 
