@@ -1,4 +1,4 @@
-# Projetos React Native
+# Projeto React Native
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandowl/Projetos-React-Native/blob/main/LICENSE)
 
 # Objetivo
